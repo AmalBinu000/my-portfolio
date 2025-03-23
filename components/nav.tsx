@@ -101,7 +101,7 @@ export function Nav() {
               transition={{ delay: navItems.length * 0.1 }}
             >
               <a
-                href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67dc2e04f474aed7a1d60369"
+                href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67dfcda1f3319fa2a489a330"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-primary text-primary-foreground px-4 py-2 rounded-md hover:bg-primary/90 transition-colors"
