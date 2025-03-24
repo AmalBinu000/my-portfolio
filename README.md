@@ -12,7 +12,7 @@ A modern and responsive personal portfolio built using Next.js and Tailwind CSS,
 
 ## Demo
 
-[Live Demo](#) (Replace `(https://my-portfolio-ten-pi-27.vercel.app/)` with your live demo link)
+[Live Demo](https://my-portfolio-ten-pi-27.vercel.app/)
 
 
 
