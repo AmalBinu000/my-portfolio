@@ -94,7 +94,8 @@ export default function Home() {
             Frontend Developer
           </motion.p>
           <motion.a
-            href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67dfcda1f3319fa2a489a330"
+            href="https://drive.google.com/file/d/1qEhqOReByE4wWgDCM2iNtRJGs6Xsf_KF/view?usp=sharing
+"
             className="bg-primary text-primary-foreground px-6 py-3 rounded-md hover:bg-primary/90 transition-colors inline-block"
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
